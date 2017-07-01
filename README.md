@@ -1,4 +1,8 @@
 Vagrant-Devops Udemy course code
+
+The course can be found here with  code for the maximum discount I'm able to give:
+https://www.udemy.com/devops-for-operations/?couponCode=LINKEDINDEVOPS99
+
 =========================
 All of the Vagrant code was developed on a windows 10 laptop. Local access to the website we'll create as part of this exercise will be via entering http://127.0.0.1 into your preferred web browser.
 
