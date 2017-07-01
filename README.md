@@ -1,6 +1,6 @@
-Vagrant-Devops Udemy course code
+#  Vagrant-Devops Udemy course code
 
-The course can be found here with  code for the maximum discount I'm able to give:
+The course can be found here with a code for the maximum discount I'm able to give:
 https://www.udemy.com/devops-for-operations/?couponCode=LINKEDINDEVOPS99
 
 =========================
